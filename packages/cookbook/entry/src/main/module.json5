@@ -15,8 +15,8 @@
         "name": "EntryAbility",
         "srcEntry": "./ets/entryability/EntryAbility.ets",
         "description": "$string:EntryAbility_desc",
-        "icon": "$media:layered_image",
-        "label": "$string:EntryAbility_label",
+        "icon": "$media:layered_image", // TODO X: App 图标
+        "label": "$string:EntryAbility_label", // TODO X: App Name
         "startWindowIcon": "$media:startIcon",
         "startWindowBackground": "$color:start_window_background",
         "exported": true,
