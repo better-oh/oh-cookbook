@@ -6,12 +6,12 @@
 <br />
 <div align="center">
 
-<h3 align="center">OpenHarmony Cookbook</h3>
+<h3 align="center">鸿蒙应用 代码大全 App</h3>
 
   <p align="center">
-    🐝 A Cookbook App of OpenHarmony 🔥
+    🐝 鸿蒙OS 应用开发 UI 组件应用示例大全 App 🔥
     <br/>
-    🐝 ArkTS/ArkUI/ArkUI-X Code Snippets 🔥
+    🐝 ArkTS/ArkUI/ArkUI-X 代码贴/段 🔥
     <br/>
 
 ![Mojo Version][language-shield]
@@ -19,7 +19,7 @@
 <br/>
 [![Contributors Welcome][contributors-shield]][contributors-url]
 
-[简体中文](README_CN.md) | English
+简体中文 | [English](README.md)
 
   </p>
 </div>
@@ -36,3 +36,18 @@
 [contributors-url]: https://github.com/better-mojo/jojo#contributing
 
 [jojo-core]: https://prefix.dev/channels/jojo/packages/jojo-core
+
+## 简介
+
+- 鸿蒙OS 应用开发 UI 组件应用示例大全
+
+## 开发环境
+
+- 鸿蒙 5.0
+- API 12
+- ArkUI-X
+
+```ruby
+
+  
+```

@@ -1,0 +1,8 @@
+version: "3"
+
+tasks:
+  pkg:
+    aliases: [ 'pm', 'magic' ]
+    cmds:
+      - echo 'ohos package manager'
+
